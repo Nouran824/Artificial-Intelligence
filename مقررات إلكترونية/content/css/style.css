@@ -1,0 +1,42 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+header > div {
+    background:linear-gradient(135deg, #007bff 0%,#1e00a1 100%);; 
+    display:flex;}
+body{
+    background-color:lightblue;
+    background-image: url("./low_poly_banner_design_1711.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.text1 {
+    font-family: 'Rubik', sans-serif;
+    margin: 50px;
+    font-size: x-large;
+    color: #1e00a1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Rubik:wght@500&display=swap');
+.text2
+{
+    
+    font-family: 'Amiri', serif; 
+    color: black;
+    font-size: 20px;  
+}
+.text3{
+    font-family: 'Rubik', sans-serif;
+    margin: 30px;
+
+}
+.text4{
+    font-family: 'Rubik', sans-serif;
+    color: #1e00a1;
+    text-align: right;
+    direction: rtl;
+    margin: 30px;
+}
